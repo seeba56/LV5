@@ -1,0 +1,6 @@
+C:\Users\seba\source\repos\PrviDrugi\PrviDrugi\obj\Debug\PrviDrugi.csprojAssemblyReference.cache
+C:\Users\seba\source\repos\PrviDrugi\PrviDrugi\bin\Debug\PrviDrugi.exe.config
+C:\Users\seba\source\repos\PrviDrugi\PrviDrugi\bin\Debug\PrviDrugi.exe
+C:\Users\seba\source\repos\PrviDrugi\PrviDrugi\bin\Debug\PrviDrugi.pdb
+C:\Users\seba\source\repos\PrviDrugi\PrviDrugi\obj\Debug\PrviDrugi.exe
+C:\Users\seba\source\repos\PrviDrugi\PrviDrugi\obj\Debug\PrviDrugi.pdb
